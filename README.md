@@ -7,10 +7,17 @@ Code adapted from [1]
 1. Crainiciuc G, Palomino-Segura M, Molina-Moreno M, Sicilia J, Aragones DG, Li JLY, Madurga R, Adrover JM, Aroca-Crevillén A, Martin-Salamanca S, et al: Behavioural immune landscapes of inflammation. Nature 2022, 601:415-421.
 
 ### Dependencies
-This code has been tested using the following dependencies
-dplyr version 1.0.9
-Seurat version 4.1.1
-RStudio version 2022.07.2 
+1. dplyr version 1.0.9
+2. Seurat version 4.1.1
+3. RStudio version 2022.07.2 
+
+### Environment Information
+This code has been tested using the following:
+1. dplyr version 1.0.9
+2. RStudio version 2022.07.2 
+3. macOS Monterey v12.0
+4. 2022 Apple M1 Macbook Pro
+
 
 ### Instructions
 1. Download the above R script and data directory in the same folder. 
