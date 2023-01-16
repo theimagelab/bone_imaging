@@ -1,4 +1,4 @@
-# bone_imaging
+# Longitudinal intravital imaging code supplement.
 
 This code accompanies the paper "Minimally invasive longitudinal intravital imaging of cellular dynamics in intact long bone"
 
