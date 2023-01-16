@@ -5,7 +5,7 @@ This code accompanies the paper "Minimally invasive longitudinal intravital imag
 Code adapted from [1]
 
 ### Instructions
-1. Download the above R script and data directory in the same folder. 
+1. Download the above R script (SurfDimReduc.R) and data directory in the same folder. 
 2. Open the R script in RStudio and set the working directory to the same directory as the R script. 
 3. Source the script.
 Typical run time on a 2022 M1 Macbook Pro: <10 seconds.
